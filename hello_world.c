@@ -2,5 +2,6 @@
 
 void main(void)
 {
-    puts("Hello World");
+    char name[] = "Christian";
+    printf("Hello, %s\n", name);
 }
