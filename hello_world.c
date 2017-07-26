@@ -6,4 +6,5 @@ void main(void)
     printf("Please enter your name: ");
     scanf("%s", name);
     printf("Hello, %s\n", name);
+    puts("END OF PROGRAM");
 }
