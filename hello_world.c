@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
+/* We probably need some documentation */
 void main(void)
 {
     uint8_t name[100];
